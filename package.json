@@ -1,6 +1,6 @@
 {
   "name": "@liamnewmarch/static-plugin-nunjucks",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Static plugin to add support for Nunjucks",
   "main": "index.js",
   "type": "module",
@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/liamnewmarch/static-plugin-nunjucks#readme",
   "peerDependencies": {
-    "@liamnewmarch/static": "^0.1.0"
+    "@liamnewmarch/static": "^0.2.0"
   },
   "dependencies": {
     "nunjucks": "^3.2.1"
