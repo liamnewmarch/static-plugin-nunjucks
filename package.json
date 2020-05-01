@@ -1,8 +1,9 @@
 {
   "name": "@liamnewmarch/static-plugin-nunjucks",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Static plugin to add support for Nunjucks",
   "main": "index.js",
+  "type": "module",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/liamnewmarch/static-plugin-nunjucks.git"
