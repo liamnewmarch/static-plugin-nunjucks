@@ -1,0 +1,29 @@
+{
+  "name": "static-plugin-nunjucks",
+  "version": "0.1.0",
+  "description": "Static plugin to add support for Nunjucks",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liamnewmarch/static-plugin-nunjucks.git"
+  },
+  "keywords": [
+    "static",
+    "site",
+    "generator",
+    "plugin",
+    "nunjucks"
+  ],
+  "author": "Liam Newmarch <liamnewmarch@users.noreply.github.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/liamnewmarch/static-plugin-nunjucks/issues"
+  },
+  "homepage": "https://github.com/liamnewmarch/static-plugin-nunjucks#readme",
+  "peerDependencies": {
+    "@liamnewmarch/static": "^0.1.0"
+  },
+  "dependencies": {
+    "nunjucks": "^3.2.1"
+  }
+}
