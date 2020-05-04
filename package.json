@@ -1,6 +1,6 @@
 {
   "name": "@liamnewmarch/static-plugin-nunjucks",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Static plugin to add support for Nunjucks",
   "main": "index.js",
   "type": "module",
