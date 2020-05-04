@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/liamnewmarch/static-plugin-nunjucks#readme",
   "peerDependencies": {
-    "@liamnewmarch/static": "^0.2.0"
+    "@liamnewmarch/static": "^0.3.1"
   },
   "dependencies": {
     "nunjucks": "^3.2.1"

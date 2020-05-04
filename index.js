@@ -27,7 +27,7 @@ export default function ({
   return {
     render(page) {
       if (!page.template) return;
-      return env.render(page.template, ...page);
+      return env.render(page.template, page);
     },
   };
 }
